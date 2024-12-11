@@ -14,10 +14,9 @@ incluindo um resumo de sua história e uma breve oração. /
 
 ## 🤖 Tecnologias Utilizadas
 
-    IA Generativa ChatGPT para roteirização;
-    IA Generativa Leonardo AI para criar a arte visual do e-book;
-    Ferramenta Microsoft Office para edição.
-
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- Ferramenta **Microsoft Office** para edição.
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" nas pesquisas sobre as histórias de Santos Católicos,
