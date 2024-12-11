@@ -5,23 +5,29 @@
 # E-book Devocional: Santos da Igreja - Um breve guia para cada mês do ano
 
 ## 📒 Descrição
-Este e-book foi construído explorando diversar IAs Generativas. Com uma temática religiosa, focada na histórias de Santos da Igreja Católica. O e-book terá 15 páginas, sendo: 1. **Capa** 2. **Índice** 3. **12 páginas de conteúdo**, com um santo por mês, incluindo um resumo da história e uma breve oração. 4. **Conclusão**. O foco é escolher santos mais populares para cada mês do ano.
+Este e-book foi construído explorando IAs Generativas. Com um tema religioso, sobre Santos da Igreja Católica.
+E-book com 15 páginas, divididas em 4 seções principais: 1. Capa 2. Índice 3. 12 páginas de conteúdo
+com um santo por mês, incluindo um resumo de sua história e uma breve oração. 4. **Agradecimentos**.
 
 ## 🤖 Tecnologias Utilizadas
 
     IA Generativa ChatGPT para roteirização;
-    IA Generativa Meta AI para apoio;
-    IA Generativa Google Gemini para pesquisas adicionais;
     IA Generativa Leonardo AI para criar a arte visual do e-book;
     Ferramenta Microsoft Office para edição.
 
 
 ## 🧐 Processo de Criação
-Utilizei principalmente o "ChatGPT" nas pesquisas sobre a história de Santos Católicos, na revisão e estruturaração do conteúdo e para refinar as minhas ideias. As imagems foram obtidas através do "Leonardo AI", que foi utilizado para gerar imagens exclusivas para o e-book. Por fim, a montagem foi realizada no Microsoft Office, onde realizei a edição final do texto.
+Utilizei o "ChatGPT" nas pesquisas sobre as histórias de Santos Católicos, na estruturaração do conteúdo
+e para refinar minhas ideias. Os prompts foram instruídos a escolher os santos mais populares de  cada mês.
+A imagem da capa foi obtida através do "Leonardo AI", com o objetivo de gerar uma imagem exclusivas para
+o e-book e que fosse pertinente a temática que escolhi.
+Por fim, realizei a montagem e edição final do no Microsoft Office Powerpoint.
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+O e-book apresenta um conteúdo focado em espiritualidade, obtido totalmente com o auxlio de IAs Genativas,
+com o ohetivo de demonstrar como as IAs podem ser uma ferramenta poderosa na cração de conteúdos.
 
 ## 💭 Reflexão (Opcional)
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+Este desafio foi uma experiência muito reveladora para mim, pois além de exclarece o potencial das ferramentes de IA,
+também dimistificou os preconceitos que eu poussui sobre as possibilidades dessas tecnologias.  
 ```
