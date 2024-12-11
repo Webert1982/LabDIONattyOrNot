@@ -23,4 +23,4 @@ O e-book apresenta um conteúdo focado em espiritualidade, obtido totalmente com
 [LINK PARA O E-BOOK AQUI](https://github.com/Webert1982/LabDIONattyOrNot/blob/main/Ebook%20-%20LabDIONattyOrNot.pdf)
 
 ## 💭 Reflexão
-Este desafio foi uma experiência muito reveladora, além de me exclarecer o potencial das ferramentas de IA, também dismistificou preconceitos que eu possuia sobre as possibilidades negativas dessas tecnologias.
+Este desafio foi uma experiência muito reveladora, além de me exclarecer o potencial das ferramentas de IA, também dismistificou preconceitos gerados por uma imagem negativa dessas tecnologias.
