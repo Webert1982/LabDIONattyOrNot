@@ -9,7 +9,7 @@ E-book com 15 páginas, divididas em 4 seções principais:
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
+- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a capa do e-book;
 - Ferramenta **Microsoft Office** para edição.
 
 ## 🧐 Processo de Criação
