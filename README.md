@@ -10,7 +10,7 @@ Com uma temática religiosa, sobre Santos da Igreja Católica.
 E-book com 15 páginas, divididas em 4 seções principais:
 1. Capa / 2. Índice / 3. 12 páginas de conteúdo com um santo por mês,
 incluindo um resumo de sua história e uma breve oração. /
-4. **Agradecimentos**.
+4. Agradecimentos.
 
 ## 🤖 Tecnologias Utilizadas
 
