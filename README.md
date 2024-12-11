@@ -32,6 +32,8 @@ O e-book apresenta um conteúdo focado em espiritualidade, obtido totalmente com
 o auxlio de IAs Genativas, com o objetivo de demonstrar como as IAs podem ser
 uma ferramenta poderosa na exploração e criação dos mais diversos conteúdos.
 
+[LINK PARA O E-BOOK AQUI]()
+
 ## 💭 Reflexão (Opcional)
 Este desafio foi uma experiência muito reveladora, além de me exclarecer
 o potencial das ferramentas de IA, também dismistificou preconceitos que eu
