@@ -33,7 +33,7 @@ o auxlio de IAs Genativas, com o objetivo de demonstrar como as IAs podem ser
 uma ferramenta poderosa na exploração e criação dos mais diversos conteúdos.
 
 ## 💭 Reflexão (Opcional)
-Este desafio foi uma experiência muito reveladora para mim, além de me exclarecer
-o potencial das ferramentes de IA, também dismistificou preconceitos que eu
+Este desafio foi uma experiência muito reveladora, além de me exclarecer
+o potencial das ferramentas de IA, também dismistificou preconceitos que eu
 possuia sobre as possibilidades negativas dessas tecnologias.  
 ```
