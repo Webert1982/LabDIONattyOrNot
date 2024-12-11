@@ -24,7 +24,7 @@ Utilizei o "ChatGPT" nas pesquisas sobre as histórias de Santos Católicos,
 na estruturaração do conteúdo e para refinar minhas ideias. Os prompts
 foram instruídos a escolher os santos mais populares de  cada mês.
 A imagem da capa foi obtida através do "Leonardo AI", com o objetivo de
-gerar uma imagem exclusivas para o e-book e que fosse pertinente ao tema.
+gerar uma imagem exclusiva para o e-book e que fosse pertinente ao tema.
 Por fim, realizei a montagem e edição final do no Microsoft Office Powerpoint.
 
 ## 🚀 Resultados
