@@ -20,7 +20,7 @@ Utilizei o "ChatGPT" nas pesquisas sobre as histórias de Santos Católicos, na 
 O e-book apresenta um conteúdo focado em espiritualidade, obtido totalmente com o auxlio de IAs Genativas, seu objetivo é demonstrar como as IAs podem ser uma ferramenta poderosa na exploração e criação dos mais diversos conteúdos.
 
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/Webert1982/LabDIONattyOrNot/blob/main/Ebook%20-%20LabDIONattyOrNot.pdf)
 
 ## 💭 Reflexão
 Este desafio foi uma experiência muito reveladora, além de me exclarecer o potencial das ferramentas de IA, também dismistificou preconceitos que eu possuia sobre as possibilidades negativas dessas tecnologias.
